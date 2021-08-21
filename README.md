@@ -42,7 +42,7 @@
 
 
 
-[![LinkedIn: Sagnik](https://img.shields.io/badge/-Sagnik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pallavi/)](https://www.linkedin.com/in/sagnikghosh1111/)
+[![LinkedIn: Sagnik](https://img.shields.io/badge/-Sagnik-orange?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pallavi/)](https://www.linkedin.com/in/sagnikghosh1111/)
 [![GitHub: Sagnik](https://img.shields.io/github/followers/sagnik11?label=follow&style=social)](https://github.com/sagnik11)
 
 <a href="https://github.com/sagnik11">
