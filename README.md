@@ -101,6 +101,8 @@
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=sagnik11&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
-[![Sagnik's github activity graph](https://activity-graph.herokuapp.com/graph?username=sagnik11&theme=dracula)](https://github.com/sagnik11/github-readme-activity-graph)
-
+    <br>
+    <br>
+    <br>
+<img align="left" src="https://activity-graph.herokuapp.com/graph?username=sagnik11&theme=dracula" alt="zumrudu-anka" />
     
