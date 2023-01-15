@@ -15,6 +15,8 @@
 </pre>
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"/>Hey, I'm Sagnik Ghosh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<p>You can learn more about me at <a href="https://sagnikghosh.dev/">sagnikghosh.dev</a></p>
+
 <p align="center">
       <img src = "https://user-images.githubusercontent.com/64497647/126317921-3bb49ca0-e6eb-4781-af70-d1593e161332.gif"/>
 </p>
