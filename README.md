@@ -100,10 +100,11 @@
 <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 
 </p>
-<img align="center" src="https://streak-stats.demolab.com?user=sagnik11&theme=dark" alt="zumrudu-anka" />
-    </a>
+<img align="center" src="https://streak-stats.demolab.com?user=sagnik11&theme=dark" alt="Sagnik Ghosh" />
     <br>
     <br>
-    <br>
-<img align="left" src="https://activity-graph.herokuapp.com/graph?username=sagnik11&theme=dracula" alt="zumrudu-anka" />
+    <be>
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sagnik11&theme=react" alt="Sagnik Ghosh" />
+
     
