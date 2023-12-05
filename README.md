@@ -106,5 +106,12 @@
     <be>
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sagnik11&theme=react" alt="Sagnik Ghosh" />
+    <br>
+    <br>
+    <be>
+
+<img align="center" src="https://api.githubtrends.io/user/svg/sagnik11/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" alt="Sagnik Ghosh" />
+
+<img align="center" src="https://api.githubtrends.io/user/svg/sagnik11/repos?time_range=one_year&include_private=True&group=private&theme=dark" alt="Sagnik Ghosh" />
 
     
