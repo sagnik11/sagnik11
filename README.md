@@ -114,4 +114,11 @@
 
 <img align="center" src="https://api.githubtrends.io/user/svg/sagnik11/repos?time_range=one_year&include_private=True&group=private&theme=dark" alt="Sagnik Ghosh" />
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/sagnik11"
+  width="600"
+  height="300"
+/>
+</a>
     
