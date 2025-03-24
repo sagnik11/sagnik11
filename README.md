@@ -35,7 +35,7 @@
 
 
 - 🎓 I'm currently pursuing B.tech. in Computer Science & Engineering and expect to be graduated in 2023.
-- 🌱 CoFounder || CTO at <a href="https://www.worqhat.com">WorqHat</a>.
+- 🌱 CoFounder || CEO at <a href="https://www.worqhat.com">WorqHat</a>.
 - 🌟 Lead contributor to the GitHub Repo of <a href="https://github.com/worqhat/">WorqHat</a>.
 - 🤔 We prepare Young Minds for a Better Future.
 - 💬 Ask me about Web Development or any tech related stuff.
