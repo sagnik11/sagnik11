@@ -1,124 +1,177 @@
-<pre>
-      ___           ___           ___       ___       ___     
-     /\__\         /\  \         /\__\     /\__\     /\  \    
-    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
- /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
- \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-     \/__/         \/__/         \/__/     \/__/     \/__/    
+<div align="center">
 
-<strong>Welcome to my GitHub profile.</strong>
-</pre>
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"/>Hey, I'm Sagnik Ghosh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sagnik%20Ghosh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Co-Founder%20%7C%20Builder%20%7C%20Pune&descAlignY=55&descSize=16" width="100%"/>
 
-<p>You can learn more about me at <a href="https://sagnikghosh.dev/">sagnikghosh.dev</a></p>
-
-<p align="center">
-      <img src = "https://user-images.githubusercontent.com/64497647/126317921-3bb49ca0-e6eb-4781-af70-d1593e161332.gif"/>
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnik11&label=Views&color=orange&style=plastic" alt="sagnik11" /> </p>
-
-<a href="https://twitter.com/iam_sagnik_ghosh">
-  <img align="left" alt="Sagnik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sagnikghosh1111/">
-  <img align="left" alt="Sagnik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</div>
 
 <br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagnikghosh1111/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iam_sagnik_ghosh)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=safari&logoColor=white)](https://sagnikghosh.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagnik@worqhat.com)
+[![Views](https://komarev.com/ghpvc/?username=sagnik11&label=Profile+Views&color=blueviolet&style=for-the-badge)](https://github.com/sagnik11)
+
+</div>
+
 <br/>
 
+---
 
-- 🎓 I'm currently pursuing B.tech. in Computer Science & Engineering and expect to be graduated in 2023.
-- 🌱 CoFounder || CEO at <a href="https://www.worqhat.com">WorqHat</a>.
-- 🌟 Lead contributor to the GitHub Repo of <a href="https://github.com/worqhat/">WorqHat</a>.
-- 🤔 We prepare Young Minds for a Better Future.
-- 💬 Ask me about Web Development or any tech related stuff.
-- 📫 How to reach me: [Email:sagnik@worqhat.com](mailto:sagnik@worqhat.com)
+<div align="center">
 
+```
+Started building at 15. Now building companies.
+AI-first products. Developer tooling. Enterprise infrastructure.
+Active across Pune and Mumbai startup ecosystems.
+```
 
+</div>
 
+---
 
-[![LinkedIn: Sagnik](https://img.shields.io/badge/-Sagnik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pallavi/)](https://www.linkedin.com/in/sagnikghosh1111/)
-[![GitHub: Sagnik](https://img.shields.io/github/followers/sagnik11?label=follow&style=social)](https://github.com/sagnik11)
+<br/>
 
-<a href="https://github.com/sagnik11">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagnik11&show_icons=true&theme=dark&line_height=27" alt="Sagnik's github stats"/>
-</a>
-<br>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://angularjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> </a>
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://www.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/> </a>
-<a href="https://www.apple.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="40" height="40"/> </a>
-<a href="https://babeljs.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="babel" width="40" height="40"/> </a>
-<a href="https://backbonejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original.svg" alt="backbonejs" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://clojure.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg" alt="clojure" width="40" height="40"/> </a>
-<a href="https://clojurescript.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojurescript/clojurescript-original.svg" alt="clojurescript" width="40" height="40"/> </a>
-<a href="https://coffeescript.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original.svg" alt="coffeescript" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/index.php" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c-sharp" width="40" height="40"/> </a>
-<a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://cloud.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google-cloud" width="40" height="40"/> </a>
-<a href="hexo.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
+## 🏢 &nbsp;What I'm Building
 
-</p>
-<img align="center" src="https://streak-stats.demolab.com?user=sagnik11&theme=dark" alt="Sagnik Ghosh" />
-    <br>
-    <br>
-    <be>
+<br/>
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sagnik11&theme=react" alt="Sagnik Ghosh" />
-    <br>
-    <br>
-    <be>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<img align="center" src="https://api.githubtrends.io/user/svg/sagnik11/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" alt="Sagnik Ghosh" />
+### ⚡ WorqHat
+#### *AI-First Enterprise Platform*
 
-<img align="center" src="https://api.githubtrends.io/user/svg/sagnik11/repos?time_range=one_year&include_private=True&group=private&theme=dark" alt="Sagnik Ghosh" />
+[![Website](https://img.shields.io/badge/worqhat.com-000?style=flat-square&logo=vercel&logoColor=white)](https://worqhat.com)
+[![Role](https://img.shields.io/badge/Co--Founder%20%26%20CEO-blueviolet?style=flat-square)](https://worqhat.com)
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/sagnik11"
-  width="600"
-  height="300"
-/>
-</a>
-    
+WorqHat lets non-technical teams build **internal tools, CRMs, dashboards, and automations** using AI agents that don't just analyze — they execute.
+
+**What makes it different:**
+- Deployed on your own AWS infrastructure
+- Customer-controlled API keys
+- Your data never touches WorqHat's servers
+- Built for enterprise security and compliance
+
+**Core capabilities:**
+- AI agents that take real actions
+- No-code interface for non-technical users
+- Self-hosted deployment model
+- Enterprise-grade audit trails
+
+</td>
+<td width="50%" valign="top">
+
+### 🦦 Autter
+#### *AI-Powered Merge Gate*
+
+[![Website](https://img.shields.io/badge/autter.dev-000?style=flat-square&logo=vercel&logoColor=white)](https://autter.dev)
+[![Stage](https://img.shields.io/badge/Pre--Seed-orange?style=flat-square)](https://autter.dev)
+[![Status](https://img.shields.io/badge/Active%20Build-brightgreen?style=flat-square)](https://autter.dev)
+
+Autter is the merge gate for teams shipping with AI coding tools. As AI writes more of your code, you need a smarter gate before it lands in production.
+
+**What it checks:**
+- 🧠 **Runtime-aware** — catches issues specific to your environment
+- 🔒 **Security-aware** — flags vulnerabilities before they merge
+- 🗄️ **Schema-aware** — validates database and API contract changes
+- 📊 **Team analytics** — repo and team-level performance metrics
+
+**Built with:** GitHub App architecture, Customer.io for lifecycle emails, PostHog for analytics
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## 🛠️ &nbsp;Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend and Infrastructure**
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sagnik11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=8b949e&icon_color=a78bfa" height="170" alt="Sagnik's GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=8b949e" height="170" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=sagnik11&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sagnik11&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa" alt="Contribution Graph" width="95%"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### Let's connect
+
+*Building in Pune. Always up for a conversation about AI, developer tooling, or early-stage startups.*
+
+<br/>
+
+[![WorqHat](https://img.shields.io/badge/WorqHat-worqhat.com-blueviolet?style=flat-square)](https://worqhat.com)
+&nbsp;
+[![Autter](https://img.shields.io/badge/Autter-autter.dev-orange?style=flat-square)](https://autter.dev)
+&nbsp;
+[![Email](https://img.shields.io/badge/sagnik%40worqhat.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sagnik@worqhat.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
