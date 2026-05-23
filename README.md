@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagnikghosh1111/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iam_sagnik_ghosh)
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=safari&logoColor=white)](https://sagnikghosh.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagnik@worqhat.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagnik@autter.dev)
 [![Views](https://komarev.com/ghpvc/?username=sagnik11&label=Profile+Views&color=blueviolet&style=for-the-badge)](https://github.com/sagnik11)
 
 </div>
